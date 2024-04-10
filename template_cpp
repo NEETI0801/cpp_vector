@@ -100,7 +100,7 @@ int main()
 	
 	//auto s=sum(1,2,3,4,5);
 //	cout<<"Sum="<<s<<endl;
-	
+	cout<<"changed se*******************************************";
 	auto dd=sum(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1);
 	cout<<"Sum "<<dd<<endl;
 	
